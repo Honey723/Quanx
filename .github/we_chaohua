@@ -71,7 +71,7 @@ const $ = new Env("微博超话");
 $.time = 1000; //签到间隔默认1s
 $.delete_cookie = false; //如果需要清除Cookie请改为true，清除后改为false
 $.msg_max_num = 30; //自定义超话页面数量
-$ .check_first = false; //真为先检查再签到，false为直接签到
+$ .check_first = false; //true为先检查再签到;false为直接签到
 
 
 //debug选项
