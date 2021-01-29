@@ -6,11 +6,17 @@
 '''
 
 #具体如下
+
+
 #机场图标修改
+
 [server_remote]
 https://您的机场订阅地址, tag=机场名称, update-interval=86400, opt-parser=false, enabled=true, img-url=图片png地址
 
+
+
 #策略图标修改
+
 [policy]
 staic=策略名称, direct, img-url=图片png地址
 
